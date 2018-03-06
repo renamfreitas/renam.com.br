@@ -1,7 +1,9 @@
 <template>
   <div class="contact">
     <h1>{{ msg }}</h1>
-    <p>Contact me</p>
+    <p>You can reach me via email: <strong>contact@renam.com.br</strong></p>
+    <h3>Why not send a whatsApp?</h3>
+    <p>+55 15 99605.4066</p>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>{{ msg }}</h1>
-    <p>home content</p>
+    <p>Feel free to browse around and learn more about me.</p>
   </div>
 </template>
 
@@ -10,7 +10,7 @@ export default {
   name: 'Home',
   data () {
     return {
-      msg: 'Welcome to my personal website'
+      msg: 'Welcome to my portfolio website'
     }
   }
 }
